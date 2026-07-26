@@ -41,7 +41,7 @@ A production-style MERN Stack web application developed during my Full Stack Dev
 | **Company**    | Farseed Pvt. Ltd.                   |
 | **Program**    | Full Stack Developer Internship     |
 | **Location**   | REVA NEST Startup Incubation Center |
-| **Duration**   | February 2025 – May 2025            |
+| **Duration**   | February 2025 – July 2025            |
 | **Role**       | Full Stack Developer Intern         |
 | **Technology** | MERN Stack                          |
 
